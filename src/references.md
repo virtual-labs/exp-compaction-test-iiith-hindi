@@ -1,2 +1,0 @@
-- [Cemm Lab - Compaction](https://cemmlab.webhost.uic.edu/Experiment%209-Compaction.pdf)
-- Soil Mechanics Laboratory Manual, Braja M. Das
